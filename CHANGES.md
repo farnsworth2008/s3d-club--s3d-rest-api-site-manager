@@ -3,7 +3,8 @@ Recently completed and planned work is tracked here.
 
 ## [0.0.0](.) [0.0.1-kajd](.)
 - Created project
-- **TODO** Added Go files
+- Added Go files
+- **TODO** Added Gin
 
 ## [Next](.)
 - **TODO** Added CI/CD
