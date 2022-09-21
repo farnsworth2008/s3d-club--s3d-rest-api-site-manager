@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Format using Terraform
+go fmt
