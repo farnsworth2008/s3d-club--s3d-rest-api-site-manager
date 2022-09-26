@@ -5,7 +5,7 @@ Recently completed and planned work is tracked here.
 - Created project
 - Added Go files
 
-## [0.0.2](.) [0.0.3](.)
+## [0.0.2](.) [0.0.4](.)
 - Added [Gin](https://gin-gonic.com/docs/quickstart/)
 
 ## [plan](.)
