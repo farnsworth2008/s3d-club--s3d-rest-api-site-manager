@@ -5,9 +5,9 @@ Recently completed and planned work is tracked here.
 - Created project
 - Added Go files
 
-## [0.0.2](.)
+## [0.0.2](.) [0.0.3](.)
 - Added [Gin](https://gin-gonic.com/docs/quickstart/)
 
-## [Next](.)
+## [plan](.)
 - **TODO** Added CI/CD
 - **TODO** Improved `README.md`
