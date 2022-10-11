@@ -7,8 +7,8 @@ and [CHANGES][chge] documents before working in this project and anytime they
 are update.
 
 ## Overview
-The clubs Go based API exists in part to provide site management features and
-in part to act as a platform for learning about Go APIs.
+The Go based API exists in part to provide site management features and in part
+to act as a platform for learning about Go APIs.
 
 [chge]: ./CHANGES.md
 [code]: ./CODE-OF-CONDUCT.md
